@@ -1,2 +1,4 @@
 WhatsABizOS.md
 WhatIsEventDriven.md
+SmallerBusinessSystems.md
+TechnicalSystems.md
